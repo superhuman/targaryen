@@ -1,5 +1,5 @@
 {
-  "name": "targaryen",
+  "name": "superhuman-targaryen",
   "version": "2.0.1",
   "description": "Test Firebase security rules without connecting to Firebase.",
   "bin": {
